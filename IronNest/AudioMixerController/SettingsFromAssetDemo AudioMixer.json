@@ -1,0 +1,130 @@
+{
+	"m_AudioMixerGroupViews": [
+		{
+			"m_Guids": [
+				{
+					"m_Data_0_": 3200424094,
+					"m_Data_1_": 1226890110,
+					"m_Data_2_": 2249707668,
+					"m_Data_3_": 3065782845
+				}
+			],
+			"m_Name": "View"
+		}
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_CurrentViewIndex": 0,
+	"m_EnableSuspend": true,
+	"m_ExposedParameters": [
+		{
+			"m_Guid": {
+				"m_Data_0_": 797638450,
+				"m_Data_1_": 1249160614,
+				"m_Data_2_": 2993631878,
+				"m_Data_3_": 2432610740
+			},
+			"m_Name": "LjijOlN"
+		}
+	],
+	"m_HideFlags": 0,
+	"m_MasterGroup": { "m_Collection": "sharedassets0.assets", "m_PathID": 3794 },
+	"m_MixerConstant": {
+		"m_EffectGUIDs": [
+			{
+				"m_Data_0_": 1865567612,
+				"m_Data_1_": 1102399486,
+				"m_Data_2_": 2878814351,
+				"m_Data_3_": 376019118
+			},
+			{
+				"m_Data_0_": 3376482789,
+				"m_Data_1_": 1161751135,
+				"m_Data_2_": 770247344,
+				"m_Data_3_": 1249910052
+			}
+		],
+		"m_Effects": [
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 0,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 4294967295,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": -2,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 0,
+				"m_ParameterIndices": [
+					2,
+					3
+				],
+				"m_PrevEffectIndex": 0,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": 3,
+				"m_WetMixLevelIndex": 4294967295
+			}
+		],
+		"m_ExposedParameterIndices": [
+			0
+		],
+		"m_ExposedParameterNames": [
+			1425763541
+		],
+		"m_GroupGUIDs": [
+			{
+				"m_Data_0_": 3200424094,
+				"m_Data_1_": 1226890110,
+				"m_Data_2_": 2249707668,
+				"m_Data_3_": 3065782845
+			}
+		],
+		"m_GroupNameBuffer": "TWFzdGVyAAA=",
+		"m_Groups": [
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": -1,
+				"m_PitchIndex": 1,
+				"m_Solo": false,
+				"m_VolumeIndex": 0
+			}
+		],
+		"m_NumSideChainBuffers": 0,
+		"m_PluginEffectNameBuffer": "AA==",
+		"m_SnapshotGUIDs": [
+			{
+				"m_Data_0_": 1537302884,
+				"m_Data_1_": 1286654626,
+				"m_Data_2_": 56005766,
+				"m_Data_3_": 2054479050
+			}
+		],
+		"m_SnapshotNameBuffer": "U25hcHNob3QAAA==",
+		"m_Snapshots": [
+			{
+				"m_NameHash": 3577444195,
+				"m_TransitionIndices": [],
+				"m_TransitionTypes": [],
+				"m_Values": [
+					0,
+					0.95,
+					1000,
+					1
+				]
+			}
+		]
+	},
+	"m_Name": "SettingsFromAssetDemo AudioMixer",
+	"m_OutputGroup": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_PrefabAsset": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_Snapshots": [
+		{ "m_Collection": "sharedassets0.assets", "m_PathID": 3797 }
+	],
+	"m_StartSnapshot": { "m_Collection": "sharedassets0.assets", "m_PathID": 3797 },
+	"m_SuspendThreshold": -80,
+	"m_TargetSnapshot": { "m_Collection": "sharedassets0.assets", "m_PathID": 3797 },
+	"m_UpdateMode": 0
+}

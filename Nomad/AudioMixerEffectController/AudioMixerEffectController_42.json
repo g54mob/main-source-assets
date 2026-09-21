@@ -1,0 +1,24 @@
+{
+	"m_Bypass": false,
+	"m_CorrespondingSourceObject": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_EffectID": {
+		"m_Data_0_": 930218030,
+		"m_Data_1_": 1102939090,
+		"m_Data_2_": 3985099919,
+		"m_Data_3_": 3256707814
+	},
+	"m_EffectName": "Send",
+	"m_EnableWetMix": true,
+	"m_HideFlags": 3,
+	"m_MixLevel": {
+		"m_Data_0_": 794239966,
+		"m_Data_1_": 1125949449,
+		"m_Data_2_": 700423833,
+		"m_Data_3_": 2911400008
+	},
+	"m_Name": "",
+	"m_Parameters": [],
+	"m_PrefabAsset": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_SendTarget": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 19 }
+}

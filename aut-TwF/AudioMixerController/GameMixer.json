@@ -1,0 +1,450 @@
+{
+	"m_AudioMixerGroupViews": [
+		{
+			"m_Guids": [
+				{
+					"m_Data_0_": 3266066108,
+					"m_Data_1_": 1123926908,
+					"m_Data_2_": 2045698944,
+					"m_Data_3_": 3666633521
+				},
+				{
+					"m_Data_0_": 4273492314,
+					"m_Data_1_": 1176229909,
+					"m_Data_2_": 3738516877,
+					"m_Data_3_": 3766163338
+				},
+				{
+					"m_Data_0_": 395993426,
+					"m_Data_1_": 1129127811,
+					"m_Data_2_": 145771137,
+					"m_Data_3_": 731609604
+				},
+				{
+					"m_Data_0_": 2066678778,
+					"m_Data_1_": 1237471590,
+					"m_Data_2_": 2497691065,
+					"m_Data_3_": 2932420564
+				},
+				{
+					"m_Data_0_": 1681744361,
+					"m_Data_1_": 1208241633,
+					"m_Data_2_": 328633007,
+					"m_Data_3_": 1034198653
+				}
+			],
+			"m_Name": "View"
+		}
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_CurrentViewIndex": 0,
+	"m_EnableSuspend": true,
+	"m_ExposedParameters": [
+		{
+			"m_Guid": {
+				"m_Data_0_": 2884943201,
+				"m_Data_1_": 1132652587,
+				"m_Data_2_": 1268290735,
+				"m_Data_3_": 2471955811
+			},
+			"m_Name": "SOprRTH"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 4177159535,
+				"m_Data_1_": 1238756708,
+				"m_Data_2_": 2350790830,
+				"m_Data_3_": 1671803473
+			},
+			"m_Name": "OtWVUHN"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 2948992358,
+				"m_Data_1_": 1087148509,
+				"m_Data_2_": 339040925,
+				"m_Data_3_": 999078074
+			},
+			"m_Name": "mposwoH"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 1748155528,
+				"m_Data_1_": 1169332502,
+				"m_Data_2_": 1856589235,
+				"m_Data_3_": 2499877585
+			},
+			"m_Name": "TLVlIVJ"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 3653408258,
+				"m_Data_1_": 1323937262,
+				"m_Data_2_": 1338142881,
+				"m_Data_3_": 1322826228
+			},
+			"m_Name": "KMTwwqL"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 704346664,
+				"m_Data_1_": 1240889164,
+				"m_Data_2_": 1910636679,
+				"m_Data_3_": 1907272977
+			},
+			"m_Name": "tuRmmTJ"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 1187550382,
+				"m_Data_1_": 1084765728,
+				"m_Data_2_": 700142009,
+				"m_Data_3_": 2662374897
+			},
+			"m_Name": "wsUjTmL"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 4251016660,
+				"m_Data_1_": 1258233204,
+				"m_Data_2_": 636551599,
+				"m_Data_3_": 506371309
+			},
+			"m_Name": "JlWLTVH"
+		}
+	],
+	"m_HideFlags": 0,
+	"m_MasterGroup": { "m_Collection": "sharedassets0.assets", "m_PathID": 2199 },
+	"m_MixerConstant": {
+		"m_EffectGUIDs": [
+			{
+				"m_Data_0_": 3203895698,
+				"m_Data_1_": 1091497644,
+				"m_Data_2_": 2366900365,
+				"m_Data_3_": 4122972191
+			},
+			{
+				"m_Data_0_": 2240734071,
+				"m_Data_1_": 1080945707,
+				"m_Data_2_": 893163196,
+				"m_Data_3_": 3136115683
+			},
+			{
+				"m_Data_0_": 4095277718,
+				"m_Data_1_": 1249582561,
+				"m_Data_2_": 1562643639,
+				"m_Data_3_": 3952881319
+			},
+			{
+				"m_Data_0_": 3712923377,
+				"m_Data_1_": 1258190201,
+				"m_Data_2_": 554413241,
+				"m_Data_3_": 1936359375
+			},
+			{
+				"m_Data_0_": 3356098911,
+				"m_Data_1_": 1150241654,
+				"m_Data_2_": 1390378134,
+				"m_Data_3_": 3106952740
+			},
+			{
+				"m_Data_0_": 341715751,
+				"m_Data_1_": 1133631459,
+				"m_Data_2_": 193253776,
+				"m_Data_3_": 4138572588
+			},
+			{
+				"m_Data_0_": 1488906395,
+				"m_Data_1_": 1182329674,
+				"m_Data_2_": 1244898185,
+				"m_Data_3_": 4260971929
+			},
+			{
+				"m_Data_0_": 786153320,
+				"m_Data_1_": 1209420030,
+				"m_Data_2_": 3174056085,
+				"m_Data_3_": 2962677090
+			},
+			{
+				"m_Data_0_": 2196415821,
+				"m_Data_1_": 1278173657,
+				"m_Data_2_": 3587284910,
+				"m_Data_3_": 401562283
+			},
+			{
+				"m_Data_0_": 124838820,
+				"m_Data_1_": 1227205937,
+				"m_Data_2_": 845570968,
+				"m_Data_3_": 501757126
+			},
+			{
+				"m_Data_0_": 2578406326,
+				"m_Data_1_": 1123711782,
+				"m_Data_2_": 459079567,
+				"m_Data_3_": 1930093637
+			},
+			{
+				"m_Data_0_": 2896049380,
+				"m_Data_1_": 1323520137,
+				"m_Data_2_": 1347239064,
+				"m_Data_3_": 3769151586
+			}
+		],
+		"m_Effects": [
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 0,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 4294967295,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": -2,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 0,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 0,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": -4,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 1,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 1,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": -2,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 1,
+				"m_ParameterIndices": [
+					10
+				],
+				"m_PrevEffectIndex": 2,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": 18,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 1,
+				"m_ParameterIndices": [
+					11
+				],
+				"m_PrevEffectIndex": 3,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": 22,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 1,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 4,
+				"m_SendTargetEffectIndex": 1,
+				"m_Type": -3,
+				"m_WetMixLevelIndex": 12
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 2,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 5,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": -2,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 2,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 6,
+				"m_SendTargetEffectIndex": 1,
+				"m_Type": -3,
+				"m_WetMixLevelIndex": 13
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 3,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 7,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": -2,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 3,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 8,
+				"m_SendTargetEffectIndex": 1,
+				"m_Type": -3,
+				"m_WetMixLevelIndex": 14
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 4,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 9,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": -2,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 4,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 10,
+				"m_SendTargetEffectIndex": 1,
+				"m_Type": -3,
+				"m_WetMixLevelIndex": 15
+			}
+		],
+		"m_ExposedParameterIndices": [
+			8,
+			0,
+			2,
+			11,
+			10,
+			4,
+			5,
+			6
+		],
+		"m_ExposedParameterNames": [
+			2152970009,
+			410686301,
+			3575369835,
+			4050406926,
+			1261252024,
+			1575644396,
+			1509001045,
+			2793634602
+		],
+		"m_GroupGUIDs": [
+			{
+				"m_Data_0_": 3266066108,
+				"m_Data_1_": 1123926908,
+				"m_Data_2_": 2045698944,
+				"m_Data_3_": 3666633521
+			},
+			{
+				"m_Data_0_": 4273492314,
+				"m_Data_1_": 1176229909,
+				"m_Data_2_": 3738516877,
+				"m_Data_3_": 3766163338
+			},
+			{
+				"m_Data_0_": 395993426,
+				"m_Data_1_": 1129127811,
+				"m_Data_2_": 145771137,
+				"m_Data_3_": 731609604
+			},
+			{
+				"m_Data_0_": 2066678778,
+				"m_Data_1_": 1237471590,
+				"m_Data_2_": 2497691065,
+				"m_Data_3_": 2932420564
+			},
+			{
+				"m_Data_0_": 1681744361,
+				"m_Data_1_": 1208241633,
+				"m_Data_2_": 328633007,
+				"m_Data_3_": 1034198653
+			}
+		],
+		"m_GroupNameBuffer": "TWFzdGVyAE11c2ljAFNGWABVSQBBbWJpZW5jZQAA",
+		"m_Groups": [
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": -1,
+				"m_PitchIndex": 1,
+				"m_Solo": false,
+				"m_VolumeIndex": 0
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 3,
+				"m_Solo": false,
+				"m_VolumeIndex": 2
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 5,
+				"m_Solo": false,
+				"m_VolumeIndex": 4
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 7,
+				"m_Solo": false,
+				"m_VolumeIndex": 6
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 9,
+				"m_Solo": false,
+				"m_VolumeIndex": 8
+			}
+		],
+		"m_NumSideChainBuffers": 1,
+		"m_PluginEffectNameBuffer": "AA==",
+		"m_SnapshotGUIDs": [
+			{
+				"m_Data_0_": 1755113565,
+				"m_Data_1_": 1123325422,
+				"m_Data_2_": 1736339095,
+				"m_Data_3_": 852358734
+			}
+		],
+		"m_SnapshotNameBuffer": "U25hcHNob3QAAA==",
+		"m_Snapshots": [
+			{
+				"m_NameHash": 3577444195,
+				"m_TransitionIndices": [],
+				"m_TransitionTypes": [],
+				"m_Values": [
+					0,
+					1,
+					0,
+					1,
+					0,
+					1,
+					0,
+					1,
+					0,
+					1,
+					22000,
+					10,
+					-80,
+					-80,
+					-80,
+					-80
+				]
+			}
+		]
+	},
+	"m_Name": "GameMixer",
+	"m_OutputGroup": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_PrefabAsset": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "sharedassets0.assets", "m_PathID": 0 },
+	"m_Snapshots": [
+		{ "m_Collection": "sharedassets0.assets", "m_PathID": 2203 }
+	],
+	"m_StartSnapshot": { "m_Collection": "sharedassets0.assets", "m_PathID": 2203 },
+	"m_SuspendThreshold": -80,
+	"m_TargetSnapshot": { "m_Collection": "sharedassets0.assets", "m_PathID": 2203 },
+	"m_UpdateMode": 0
+}

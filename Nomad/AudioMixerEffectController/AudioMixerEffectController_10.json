@@ -1,0 +1,88 @@
+{
+	"m_Bypass": false,
+	"m_CorrespondingSourceObject": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_EffectID": {
+		"m_Data_0_": 4206545202,
+		"m_Data_1_": 1324991752,
+		"m_Data_2_": 496945538,
+		"m_Data_3_": 2569118450
+	},
+	"m_EffectName": "Duck Volume",
+	"m_EnableWetMix": false,
+	"m_HideFlags": 3,
+	"m_MixLevel": {
+		"m_Data_0_": 0,
+		"m_Data_1_": 0,
+		"m_Data_2_": 0,
+		"m_Data_3_": 0
+	},
+	"m_Name": "",
+	"m_Parameters": [
+		{
+			"m_GUID": {
+				"m_Data_0_": 2256745869,
+				"m_Data_1_": 1305703329,
+				"m_Data_2_": 2843068800,
+				"m_Data_3_": 1429175050
+			},
+			"m_ParameterName": "Param_0"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 1499178511,
+				"m_Data_1_": 1195999652,
+				"m_Data_2_": 3340174254,
+				"m_Data_3_": 431017962
+			},
+			"m_ParameterName": "Param_1"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 2818295073,
+				"m_Data_1_": 1196105687,
+				"m_Data_2_": 4052817324,
+				"m_Data_3_": 1219593576
+			},
+			"m_ParameterName": "Param_2"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 1607097835,
+				"m_Data_1_": 1340080288,
+				"m_Data_2_": 663135165,
+				"m_Data_3_": 1387948566
+			},
+			"m_ParameterName": "Param_3"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 1568734860,
+				"m_Data_1_": 1151894406,
+				"m_Data_2_": 3953900430,
+				"m_Data_3_": 2967852770
+			},
+			"m_ParameterName": "Param_4"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 529496559,
+				"m_Data_1_": 1116505645,
+				"m_Data_2_": 2222042553,
+				"m_Data_3_": 279660680
+			},
+			"m_ParameterName": "Param_5"
+		},
+		{
+			"m_GUID": {
+				"m_Data_0_": 527969334,
+				"m_Data_1_": 1191290728,
+				"m_Data_2_": 874386343,
+				"m_Data_3_": 2751955555
+			},
+			"m_ParameterName": "Param_6"
+		}
+	],
+	"m_PrefabAsset": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 },
+	"m_SendTarget": { "m_Collection": "Generated Audio Mixer Effects", "m_PathID": 0 }
+}

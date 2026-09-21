@@ -1,0 +1,40 @@
+{
+	"m_AudioMixer": { "m_Collection": "cab-514bfc9b971ca76556af66070e8b147d", "m_PathID": -503992458630621347 },
+	"m_BypassEffects": false,
+	"m_Children": [],
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-514bfc9b971ca76556af66070e8b147d", "m_PathID": 0 },
+	"m_Effects": [
+		{ "m_Collection": "cab-514bfc9b971ca76556af66070e8b147d", "m_PathID": 110 }
+	],
+	"m_GroupID": {
+		"m_Data_0_": 239434768,
+		"m_Data_1_": 1275528076,
+		"m_Data_2_": 3421769373,
+		"m_Data_3_": 262685731
+	},
+	"m_HideFlags": 0,
+	"m_Mute": false,
+	"m_Name": "Transmission",
+	"m_Pitch": {
+		"m_Data_0_": 2843426926,
+		"m_Data_1_": 1183025029,
+		"m_Data_2_": 3787060117,
+		"m_Data_3_": 906957602
+	},
+	"m_PrefabAsset": { "m_Collection": "cab-514bfc9b971ca76556af66070e8b147d", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-514bfc9b971ca76556af66070e8b147d", "m_PathID": 0 },
+	"m_Send": {
+		"m_Data_0_": 0,
+		"m_Data_1_": 0,
+		"m_Data_2_": 0,
+		"m_Data_3_": 0
+	},
+	"m_Solo": false,
+	"m_UserColorIndex": 0,
+	"m_Volume": {
+		"m_Data_0_": 1276218216,
+		"m_Data_1_": 1147589331,
+		"m_Data_2_": 1563786131,
+		"m_Data_3_": 2883515475
+	}
+}

@@ -1,0 +1,248 @@
+{
+	"m_AudioMixerGroupViews": [
+		{
+			"m_Guids": [
+				{
+					"m_Data_0_": 3226661466,
+					"m_Data_1_": 1258111826,
+					"m_Data_2_": 3173121436,
+					"m_Data_3_": 2009436927
+				},
+				{
+					"m_Data_0_": 2353328883,
+					"m_Data_1_": 1150346517,
+					"m_Data_2_": 3061720244,
+					"m_Data_3_": 1577059119
+				},
+				{
+					"m_Data_0_": 3406051700,
+					"m_Data_1_": 1130002810,
+					"m_Data_2_": 29869206,
+					"m_Data_3_": 3879877852
+				},
+				{
+					"m_Data_0_": 1264645363,
+					"m_Data_1_": 1319725259,
+					"m_Data_2_": 2829569163,
+					"m_Data_3_": 938431665
+				}
+			],
+			"m_Name": "View"
+		}
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 0 },
+	"m_CurrentViewIndex": 0,
+	"m_EnableSuspend": true,
+	"m_ExposedParameters": [
+		{
+			"m_Guid": {
+				"m_Data_0_": 2904865591,
+				"m_Data_1_": 1264022626,
+				"m_Data_2_": 3277631364,
+				"m_Data_3_": 3664980772
+			},
+			"m_Name": "nkNvHrN"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 3979826502,
+				"m_Data_1_": 1260476078,
+				"m_Data_2_": 1706843265,
+				"m_Data_3_": 3144138784
+			},
+			"m_Name": "ORHVhSJ"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 2256872903,
+				"m_Data_1_": 1092236501,
+				"m_Data_2_": 2709476495,
+				"m_Data_3_": 1373914127
+			},
+			"m_Name": "UkVLQmH"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 2919885480,
+				"m_Data_1_": 1322573781,
+				"m_Data_2_": 3647409836,
+				"m_Data_3_": 3079653356
+			},
+			"m_Name": "rwWlMIJ"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 2142154073,
+				"m_Data_1_": 1148842888,
+				"m_Data_2_": 1550194323,
+				"m_Data_3_": 724254651
+			},
+			"m_Name": "wsUVwjN"
+		}
+	],
+	"m_HideFlags": 0,
+	"m_MasterGroup": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 2083 },
+	"m_MixerConstant": {
+		"m_EffectGUIDs": [
+			{
+				"m_Data_0_": 4161230880,
+				"m_Data_1_": 1147057123,
+				"m_Data_2_": 2312613275,
+				"m_Data_3_": 2996239610
+			},
+			{
+				"m_Data_0_": 1119027865,
+				"m_Data_1_": 1129717111,
+				"m_Data_2_": 1415717306,
+				"m_Data_3_": 1030513992
+			}
+		],
+		"m_Effects": [
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 3,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 4294967295,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": -2,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 3,
+				"m_ParameterIndices": [
+					12,
+					13
+				],
+				"m_PrevEffectIndex": 0,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": 5,
+				"m_WetMixLevelIndex": 4294967295
+			}
+		],
+		"m_ExposedParameterIndices": [
+			9,
+			12,
+			0,
+			3,
+			6
+		],
+		"m_ExposedParameterNames": [
+			2141562284,
+			2849442917,
+			755606486,
+			3297720884,
+			2018037534
+		],
+		"m_GroupGUIDs": [
+			{
+				"m_Data_0_": 3226661466,
+				"m_Data_1_": 1258111826,
+				"m_Data_2_": 3173121436,
+				"m_Data_3_": 2009436927
+			},
+			{
+				"m_Data_0_": 2353328883,
+				"m_Data_1_": 1150346517,
+				"m_Data_2_": 3061720244,
+				"m_Data_3_": 1577059119
+			},
+			{
+				"m_Data_0_": 3406051700,
+				"m_Data_1_": 1130002810,
+				"m_Data_2_": 29869206,
+				"m_Data_3_": 3879877852
+			},
+			{
+				"m_Data_0_": 1264645363,
+				"m_Data_1_": 1319725259,
+				"m_Data_2_": 2829569163,
+				"m_Data_3_": 938431665
+			}
+		],
+		"m_GroupNameBuffer": "TWFzdGVyAFNvdW5kIGVmZmVjdHMAVXNlciBpbnRlcmZhY2UAQW1iaWVuY2UAAA==",
+		"m_Groups": [
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": -1,
+				"m_PitchIndex": 1,
+				"m_SendIndex": 2,
+				"m_Solo": false,
+				"m_VolumeIndex": 0
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 4,
+				"m_SendIndex": 5,
+				"m_Solo": false,
+				"m_VolumeIndex": 3
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 7,
+				"m_SendIndex": 8,
+				"m_Solo": false,
+				"m_VolumeIndex": 6
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 10,
+				"m_SendIndex": 11,
+				"m_Solo": false,
+				"m_VolumeIndex": 9
+			}
+		],
+		"m_NumSideChainBuffers": 0,
+		"m_PluginEffectNameBuffer": "AA==",
+		"m_SnapshotGUIDs": [
+			{
+				"m_Data_0_": 4027135694,
+				"m_Data_1_": 1144838024,
+				"m_Data_2_": 1986762405,
+				"m_Data_3_": 1505547483
+			}
+		],
+		"m_SnapshotNameBuffer": "U25hcHNob3QAAA==",
+		"m_Snapshots": [
+			{
+				"m_NameHash": 3577444195,
+				"m_TransitionIndices": [],
+				"m_TransitionTypes": [],
+				"m_Values": [
+					0,
+					1,
+					-80,
+					0,
+					1,
+					-80,
+					0,
+					1,
+					-80,
+					0,
+					1,
+					-80,
+					150,
+					1
+				]
+			}
+		]
+	},
+	"m_Name": "Default",
+	"m_OutputGroup": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 0 },
+	"m_PrefabAsset": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 0 },
+	"m_Snapshots": [
+		{ "m_Collection": "globalgamemanagers.assets", "m_PathID": 2087 }
+	],
+	"m_StartSnapshot": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 2087 },
+	"m_SuspendThreshold": -80,
+	"m_TargetSnapshot": { "m_Collection": "globalgamemanagers.assets", "m_PathID": 2087 },
+	"m_UpdateMode": 0
+}

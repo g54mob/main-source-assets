@@ -1,0 +1,394 @@
+{
+	"m_AudioMixerGroupViews": [
+		{
+			"m_Guids": [
+				{
+					"m_Data_0_": 2670899296,
+					"m_Data_1_": 1163496080,
+					"m_Data_2_": 2294553254,
+					"m_Data_3_": 4166798154
+				},
+				{
+					"m_Data_0_": 1028348477,
+					"m_Data_1_": 1335012016,
+					"m_Data_2_": 236371596,
+					"m_Data_3_": 2491414327
+				},
+				{
+					"m_Data_0_": 239434768,
+					"m_Data_1_": 1275528076,
+					"m_Data_2_": 3421769373,
+					"m_Data_3_": 262685731
+				},
+				{
+					"m_Data_0_": 3361219853,
+					"m_Data_1_": 1108514325,
+					"m_Data_2_": 858957476,
+					"m_Data_3_": 2454474314
+				},
+				{
+					"m_Data_0_": 868279658,
+					"m_Data_1_": 1288225934,
+					"m_Data_2_": 1802237360,
+					"m_Data_3_": 345138446
+				}
+			],
+			"m_Name": "View"
+		}
+	],
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-514bfc9b971ca76556af66070e8b147d", "m_PathID": 0 },
+	"m_CurrentViewIndex": 0,
+	"m_EnableSuspend": true,
+	"m_ExposedParameters": [
+		{
+			"m_Guid": {
+				"m_Data_0_": 1327311259,
+				"m_Data_1_": 1108183545,
+				"m_Data_2_": 1628374199,
+				"m_Data_3_": 1025101250
+			},
+			"m_Name": "lJSWIrH"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 66773991,
+				"m_Data_1_": 1253490942,
+				"m_Data_2_": 2817777087,
+				"m_Data_3_": 1572335466
+			},
+			"m_Name": "KVhnmiH"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 3805459380,
+				"m_Data_1_": 1110713484,
+				"m_Data_2_": 2282088364,
+				"m_Data_3_": 3735654817
+			},
+			"m_Name": "IimHtoN"
+		},
+		{
+			"m_Guid": {
+				"m_Data_0_": 1477541955,
+				"m_Data_1_": 1099644282,
+				"m_Data_2_": 531338904,
+				"m_Data_3_": 1860420967
+			},
+			"m_Name": "QVrpWuH"
+		}
+	],
+	"m_HideFlags": 0,
+	"m_MasterGroup": { "m_Collection": "cab-514bfc9b971ca76556af66070e8b147d", "m_PathID": 7911715137878071133 },
+	"m_MixerConstant": {
+		"m_EffectGUIDs": [
+			{
+				"m_Data_0_": 417861061,
+				"m_Data_1_": 1204801644,
+				"m_Data_2_": 1743754943,
+				"m_Data_3_": 2281393810
+			},
+			{
+				"m_Data_0_": 3219721367,
+				"m_Data_1_": 1293132885,
+				"m_Data_2_": 3024967086,
+				"m_Data_3_": 1974817621
+			},
+			{
+				"m_Data_0_": 496630243,
+				"m_Data_1_": 1114565099,
+				"m_Data_2_": 191745164,
+				"m_Data_3_": 4103685539
+			},
+			{
+				"m_Data_0_": 12879653,
+				"m_Data_1_": 1184315026,
+				"m_Data_2_": 1910206103,
+				"m_Data_3_": 2426149269
+			},
+			{
+				"m_Data_0_": 3117151532,
+				"m_Data_1_": 1109979872,
+				"m_Data_2_": 4028206730,
+				"m_Data_3_": 3372671306
+			},
+			{
+				"m_Data_0_": 1172624976,
+				"m_Data_1_": 1096604533,
+				"m_Data_2_": 1800649121,
+				"m_Data_3_": 2511968323
+			},
+			{
+				"m_Data_0_": 1813342166,
+				"m_Data_1_": 1157271563,
+				"m_Data_2_": 954029981,
+				"m_Data_3_": 3045302162
+			}
+		],
+		"m_Effects": [
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 0,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 4294967295,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": -2,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 0,
+				"m_ParameterIndices": [
+					10,
+					11,
+					12,
+					13,
+					14,
+					15,
+					16,
+					17,
+					18,
+					19,
+					20,
+					21,
+					22,
+					23
+				],
+				"m_PrevEffectIndex": 0,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": 17,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 0,
+				"m_ParameterIndices": [
+					24,
+					25
+				],
+				"m_PrevEffectIndex": 1,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": 3,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 1,
+				"m_ParameterIndices": [],
+				"m_PrevEffectIndex": 2,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": -2,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 1,
+				"m_ParameterIndices": [
+					26
+				],
+				"m_PrevEffectIndex": 3,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": 8,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 1,
+				"m_ParameterIndices": [
+					27,
+					28,
+					29
+				],
+				"m_PrevEffectIndex": 4,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": 10,
+				"m_WetMixLevelIndex": 4294967295
+			},
+			{
+				"m_Bypass": false,
+				"m_GroupConstantIndex": 1,
+				"m_ParameterIndices": [
+					30,
+					31,
+					32,
+					33,
+					34,
+					35,
+					36,
+					37,
+					38,
+					39,
+					40,
+					41,
+					42,
+					43
+				],
+				"m_PrevEffectIndex": 5,
+				"m_SendTargetEffectIndex": 4294967295,
+				"m_Type": 17,
+				"m_WetMixLevelIndex": 4294967295
+			}
+		],
+		"m_ExposedParameterIndices": [
+			26,
+			0,
+			25,
+			24
+		],
+		"m_ExposedParameterNames": [
+			1284847228,
+			4282116244,
+			2097129755,
+			1770568064
+		],
+		"m_GroupGUIDs": [
+			{
+				"m_Data_0_": 2670899296,
+				"m_Data_1_": 1163496080,
+				"m_Data_2_": 2294553254,
+				"m_Data_3_": 4166798154
+			},
+			{
+				"m_Data_0_": 1028348477,
+				"m_Data_1_": 1335012016,
+				"m_Data_2_": 236371596,
+				"m_Data_3_": 2491414327
+			},
+			{
+				"m_Data_0_": 239434768,
+				"m_Data_1_": 1275528076,
+				"m_Data_2_": 3421769373,
+				"m_Data_3_": 262685731
+			},
+			{
+				"m_Data_0_": 3361219853,
+				"m_Data_1_": 1108514325,
+				"m_Data_2_": 858957476,
+				"m_Data_3_": 2454474314
+			},
+			{
+				"m_Data_0_": 868279658,
+				"m_Data_1_": 1288225934,
+				"m_Data_2_": 1802237360,
+				"m_Data_3_": 345138446
+			}
+		],
+		"m_GroupNameBuffer": "TWFzdGVyAEVuZ2luZQBUcmFuc21pc3Npb24AU3VyZmFjZU5vaXNlAE90aGVyAAA=",
+		"m_Groups": [
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": -1,
+				"m_PitchIndex": 1,
+				"m_Solo": false,
+				"m_VolumeIndex": 0
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 3,
+				"m_Solo": false,
+				"m_VolumeIndex": 2
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 5,
+				"m_Solo": false,
+				"m_VolumeIndex": 4
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 7,
+				"m_Solo": false,
+				"m_VolumeIndex": 6
+			},
+			{
+				"m_BypassEffects": false,
+				"m_Mute": false,
+				"m_ParentConstantIndex": 0,
+				"m_PitchIndex": 9,
+				"m_Solo": false,
+				"m_VolumeIndex": 8
+			}
+		],
+		"m_NumSideChainBuffers": 0,
+		"m_PluginEffectNameBuffer": "AA==",
+		"m_SnapshotGUIDs": [
+			{
+				"m_Data_0_": 2452414397,
+				"m_Data_1_": 1186090585,
+				"m_Data_2_": 3910820763,
+				"m_Data_3_": 2448959018
+			}
+		],
+		"m_SnapshotNameBuffer": "U25hcHNob3QAAA==",
+		"m_Snapshots": [
+			{
+				"m_NameHash": 3577444195,
+				"m_TransitionIndices": [],
+				"m_TransitionTypes": [],
+				"m_Values": [
+					0.04171297,
+					1,
+					-0.09500183,
+					1,
+					-0.10231405,
+					1,
+					0.025578512,
+					1,
+					0,
+					1,
+					0,
+					-3027,
+					-10000,
+					0.1,
+					0.1,
+					-10000,
+					0.02,
+					2000,
+					0.1,
+					100,
+					100,
+					1886,
+					-43,
+					250,
+					18230,
+					1,
+					0.209,
+					37,
+					5,
+					1.337,
+					0,
+					-6091,
+					0,
+					1,
+					0.5,
+					-10000,
+					0.02,
+					-8381,
+					0.04,
+					100,
+					100,
+					5000,
+					0,
+					250
+				]
+			}
+		]
+	},
+	"m_Name": "VehicleAudioMixer",
+	"m_OutputGroup": { "m_Collection": "cab-514bfc9b971ca76556af66070e8b147d", "m_PathID": 0 },
+	"m_PrefabAsset": { "m_Collection": "cab-514bfc9b971ca76556af66070e8b147d", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-514bfc9b971ca76556af66070e8b147d", "m_PathID": 0 },
+	"m_Snapshots": [
+		{ "m_Collection": "cab-514bfc9b971ca76556af66070e8b147d", "m_PathID": 7906789087126591325 }
+	],
+	"m_StartSnapshot": { "m_Collection": "cab-514bfc9b971ca76556af66070e8b147d", "m_PathID": 7906789087126591325 },
+	"m_SuspendThreshold": -80,
+	"m_TargetSnapshot": { "m_Collection": "cab-514bfc9b971ca76556af66070e8b147d", "m_PathID": 7906789087126591325 },
+	"m_UpdateMode": 0
+}
